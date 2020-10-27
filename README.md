@@ -1,4 +1,4 @@
-#*Phaser Camera Movement*
+# *Phaser Camera Movement*
 A simple game to show camera movement in Phaser
 The Camera is the way in which all games are rendered in Phaser. They provide a view into your game world, and can be positioned, rotated, zoomed and scrolled accordingly.
 A Camera consists of two elements: The viewport and the scroll values.
