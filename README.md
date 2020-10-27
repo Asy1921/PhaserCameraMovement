@@ -16,7 +16,9 @@ Player has ability to jump and double jump.
 
 ![Picture1](https://user-images.githubusercontent.com/56742160/97320209-9260ab00-1893-11eb-9358-1ca7e67d2a09.png)
 
-TileMap-Tile Mapping was done with the help of a tool called “Tiled”. It is a great tool for creating maps of 2D Games.
+#TileMap
+
+Tile Mapping was done with the help of a tool called “Tiled”. It is a great tool for creating maps of 2D Games.
 
 ![image](https://user-images.githubusercontent.com/56742160/97320805-34809300-1894-11eb-8475-72ef2492e3b5.png)
 
